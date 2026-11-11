@@ -1,0 +1,15 @@
+.env
+node_modules/
+artifacts/
+cache/
+deployments/
+chain_map.json
+ledger.backup.json
+__pycache__/
+*.pyc
+users.json
+.secret_key
+reports/*.tmp
+ml/spectral_model.joblib
+ml/model.joblib
+ml/photo_model.joblib
